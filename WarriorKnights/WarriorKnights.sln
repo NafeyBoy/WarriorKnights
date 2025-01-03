@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServiceAPI", "GameServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorKnightsUI", "WarriorKnightsUI\WarriorKnightsUI.csproj", "{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerServiceAPI", "PlayerServiceAPI\PlayerServiceAPI.csproj", "{A7A3B214-18D0-4B13-97F5-178EB5B090BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A3B214-18D0-4B13-97F5-178EB5B090BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A3B214-18D0-4B13-97F5-178EB5B090BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A3B214-18D0-4B13-97F5-178EB5B090BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A3B214-18D0-4B13-97F5-178EB5B090BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
