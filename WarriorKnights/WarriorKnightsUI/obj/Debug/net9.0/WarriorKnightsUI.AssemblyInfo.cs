@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarriorKnightsUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f012edde33c53a9cfb872f6596a2d756157b0a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarriorKnightsUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarriorKnightsUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
