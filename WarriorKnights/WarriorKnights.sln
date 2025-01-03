@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServiceAPI", "GameServiceAPI\GameServiceAPI.csproj", "{BB98D78B-CBBB-4819-962B-9586219005B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorKnightsUI", "WarriorKnightsUI\WarriorKnightsUI.csproj", "{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB98D78B-CBBB-4819-962B-9586219005B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB98D78B-CBBB-4819-962B-9586219005B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB98D78B-CBBB-4819-962B-9586219005B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB98D78B-CBBB-4819-962B-9586219005B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
