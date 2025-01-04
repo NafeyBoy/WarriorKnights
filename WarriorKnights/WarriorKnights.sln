@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServiceAPI", "GameServiceAPI\GameServiceAPI.csproj", "{BB98D78B-CBBB-4819-962B-9586219005B4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorKnightsUI", "WarriorKnightsUI\WarriorKnightsUI.csproj", "{9918F02B-F2CE-4852-A838-FA0F6FFF36DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerServiceAPI", "PlayerServiceAPI\PlayerServiceAPI.csproj", "{A7A3B214-18D0-4B13-97F5-178EB5B090BE}"

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iYGQs63FDSf/MhUMxpz3zWVUfyMvP73W8pe134U6ucQ=",
+  "Source": "PlayerServiceAPI",
+  "BasePath": "_content/PlayerServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

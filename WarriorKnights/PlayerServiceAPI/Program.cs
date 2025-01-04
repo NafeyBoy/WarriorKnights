@@ -1,8 +1,17 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+/* Db Connection Info */
+var dbHost = "localhost";
+var dbName = "PlayerService";
+var connStr = $"DataSource={dbHost};InitialCatalog={dbName}";
+builder.Services.AddDbContext<PlayerDbContext>(opt => opt.UseSqlServer(connStr));
 
 var app = builder.Build();
 
